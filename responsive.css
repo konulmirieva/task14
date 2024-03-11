@@ -1,0 +1,10 @@
+@media screen and (max-width:990px){
+    .item{
+        width: 50%;
+    }
+}
+@media screen and (max-width:578px){
+    .item{
+        width: 100%;
+    }
+}
