@@ -5,7 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(243, 248, 245);
 }
-.conteinor{
+.container{
     width: 60%;
     margin-inline: auto;
     margin-block: 50px;
